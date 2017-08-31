@@ -1,0 +1,36 @@
+/*!
+ * Mastertech - 1 Col Portfolio
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+.pagination {
+    margin-bottom: 15px;
+}
+
+p{
+  color: pink;
+}
+
+/* Ajusta o Layout para telas menores */
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+
+/* Inicio do meu CSS */
+p{
+  color: yellow;
+}
+
+/* Fim do meu CSS */
