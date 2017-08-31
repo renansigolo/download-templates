@@ -51,14 +51,14 @@
 
     <div class="container">
       <div class="row">
-        <div class="col d-flex align-items-center justify-content-center" ng-repeat="item in cardsObj">
+        <div class="col d-flex align-items-center justify-content-center" ng-repeat="item in templates">
           <div class="card mb-2" style="width: 20rem;">
-            <a href="#"><img class="card-img-top" src="{{item.imgRef}}" alt="Card image cap"></a>
+            <a href="#"><img class="card-img-top" src="templates-fds/{{item.nome}}/img/{{item.nome}}.jpg" alt="Card image cap"></a>
             <div class="card-body">
-              <h4 class="card-title text-center">{{item.title}}</h4>
-              <p class="card-text text-center">{{item.text}}</p>
+              <h4 class="card-title text-center">{{item.nome}}</h4>
+              <p class="card-text text-center">{{item.texto}}</p>
               <div class="d-flex justify-content-center">
-                <a class="btn btn-outline-primary" href="{{item.downloadRef}}" role="button">Download</a>
+                <a class="btn btn-outline-primary" href="templates-fds/{{item.nome}}.zip" role="button">Download</a>
               </div>
             </div>
           </div>
