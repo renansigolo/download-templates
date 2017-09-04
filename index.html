@@ -21,7 +21,7 @@
   <!--Barra de Navegação-->
   <header>
     <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#"><img src="img/logo-mastertech.png"></a>
+      <a class="navbar-brand" href="https://mastertech.tech/"><img src="img/logo-mastertech.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -39,7 +39,6 @@
   </header>
 
   <!--Seção inicial-->
-
   <section id="main" class="d-flex align-items-center justify-content-center">
     <div>
       <h1 class="container text-center">Escolha um Template abaixo e faça o download!</h1>
@@ -53,12 +52,31 @@
       <div class="row">
         <div class="col d-flex align-items-center justify-content-center" ng-repeat="item in templates">
           <div class="card mb-2" style="width: 20rem;">
-            <a href="#"><img class="card-img-top" src="templates-fds/{{item.nome}}/img/{{item.nome}}.jpg" alt="Card image cap"></a>
+            <a href="#{{item.nomeRef}}" data-toggle="modal"><img class="card-img-top" src="img/{{item.nomeRef}}/{{item.nomeRef}}.jpg" alt="Card image cap"></a>
             <div class="card-body">
               <h4 class="card-title text-center">{{item.nome}}</h4>
               <p class="card-text text-center">{{item.texto}}</p>
               <div class="d-flex justify-content-center">
-                <a class="btn btn-outline-primary" href="templates-fds/{{item.nome}}.zip" role="button">Download</a>
+                <a class="btn btn-outline-primary" href="templates-fds/{{item.nomeRef}}.zip" role="button">Download</a>
+              </div>
+            </div>
+          </div>
+          <!-- Modal -->
+          <div class="modal fade" id="{{item.nomeRef}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">{{item.nome}}</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+                </div>
+                <div class="modal-body">
+                  <img class="card-img-top" src="img/{{item.nomeRef}}/full-{{item.nomeRef}}.png" alt="Full Size Img">
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                  <a class="btn btn-outline-primary" href="templates-fds/{{item.nomeRef}}.zip" role="button">Download</a>
+                </div>
               </div>
             </div>
           </div>
