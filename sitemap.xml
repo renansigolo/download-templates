@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/</loc>
-        <lastmod>2017-09-05T17:46:33.000Z</lastmod>
+        <lastmod>2017-09-05T21:38:52.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/1-col-portfolio/</loc>
@@ -13,20 +13,20 @@
         <lastmod>2017-08-29T19:46:26.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/4-col-portfolio/</loc>
-        <lastmod>2017-08-29T19:49:07.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/3-col-portfolio/</loc>
         <lastmod>2017-08-29T19:47:14.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/bare/</loc>
-        <lastmod>2017-08-29T20:11:40.000Z</lastmod>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/4-col-portfolio/</loc>
+        <lastmod>2017-08-29T19:49:07.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/agency/</loc>
         <lastmod>2017-08-29T19:57:47.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/bare/</loc>
+        <lastmod>2017-08-29T20:11:40.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/blog-home/</loc>
@@ -57,14 +57,6 @@
         <lastmod>2017-08-29T20:30:20.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/freelancer/</loc>
-        <lastmod>2017-08-29T20:46:17.000Z</lastmod>
-    </url>
-    <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/creative/</loc>
-        <lastmod>2017-08-29T20:33:50.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/clean-blog/about.html</loc>
         <lastmod>2017-08-30T03:12:10.000Z</lastmod>
     </url>
@@ -79,6 +71,14 @@
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/clean-blog/post.html</loc>
         <lastmod>2017-08-30T03:12:00.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/creative/</loc>
+        <lastmod>2017-08-29T20:33:50.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/freelancer/</loc>
+        <lastmod>2017-08-29T20:46:17.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/full/</loc>
@@ -125,16 +125,20 @@
         <lastmod>2017-08-30T02:12:55.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/scrolling-nav/</loc>
-        <lastmod>2017-08-30T02:23:09.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/round-about/</loc>
         <lastmod>2017-08-30T02:19:13.000Z</lastmod>
     </url>
     <url>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/scrolling-nav/</loc>
+        <lastmod>2017-08-30T02:23:09.000Z</lastmod>
+    </url>
+    <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/shop-homepage/</loc>
         <lastmod>2017-08-30T02:27:46.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/shop-item/</loc>
+        <lastmod>2017-08-30T02:33:16.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/simple-sidebar/</loc>
@@ -143,10 +147,6 @@
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/small-business/</loc>
         <lastmod>2017-08-30T02:42:14.000Z</lastmod>
-    </url>
-    <url>
-        <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/shop-item/</loc>
-        <lastmod>2017-08-30T02:33:16.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.INSERT YOUR WEBSITE ADDRESS HERE.com.br/templates-fds/stylish-portfolio/</loc>
