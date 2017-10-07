@@ -1,3 +1,3 @@
-# download-templates
+# Download Templates
 
-Pagina de Templates customizados para a Mastertech
+Página de Templates customizados para o aprenda a programar em um fds na Mastertech!
