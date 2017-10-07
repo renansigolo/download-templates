@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.mastertech.tech/templates/</loc>
-        <lastmod>2017-09-20T18:07:12.000Z</lastmod>
+        <lastmod>2017-10-07T03:38:18.376Z</lastmod>
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/1-col-portfolio/</loc>
@@ -13,12 +13,12 @@
         <lastmod>2017-08-29T19:46:26.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.mastertech.tech/templates/templates-fds/4-col-portfolio/</loc>
-        <lastmod>2017-08-29T19:49:07.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/3-col-portfolio/</loc>
         <lastmod>2017-08-29T19:47:14.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.mastertech.tech/templates/templates-fds/4-col-portfolio/</loc>
+        <lastmod>2017-08-29T19:49:07.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/agency/</loc>
@@ -29,12 +29,12 @@
         <lastmod>2017-08-29T20:11:40.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.mastertech.tech/templates/templates-fds/blog-post/</loc>
-        <lastmod>2017-08-29T20:25:01.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/blog-home/</loc>
         <lastmod>2017-08-29T20:20:09.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.mastertech.tech/templates/templates-fds/blog-post/</loc>
+        <lastmod>2017-08-29T20:25:01.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/business-casual/about.html</loc>
@@ -134,7 +134,7 @@
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/project-basics/</loc>
-        <lastmod>2017-09-20T18:40:12.000Z</lastmod>
+        <lastmod>2017-09-23T00:13:42.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/round-about/</loc>
@@ -157,12 +157,12 @@
         <lastmod>2017-08-30T02:38:16.000Z</lastmod>
     </url>
     <url>
-        <loc>https://www.mastertech.tech/templates/templates-fds/stylish-portfolio/</loc>
-        <lastmod>2017-08-30T02:46:45.000Z</lastmod>
-    </url>
-    <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/small-business/</loc>
         <lastmod>2017-08-30T02:42:14.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://www.mastertech.tech/templates/templates-fds/stylish-portfolio/</loc>
+        <lastmod>2017-08-30T02:46:45.000Z</lastmod>
     </url>
     <url>
         <loc>https://www.mastertech.tech/templates/templates-fds/the-big-picture/</loc>

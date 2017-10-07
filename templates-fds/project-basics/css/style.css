@@ -19,18 +19,6 @@ body {
 }
 
 
-/*#main h1 {
-  font-size: 3.5rem;
-  font-weight: bold;
-}*/
-
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
-}
-
-
 /* Inicio do meu CSS */
 
 
